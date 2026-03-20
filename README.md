@@ -46,4 +46,4 @@ chmod +x start.sh
 
 3.0 Lisenziyalar
 
-- Lisenziyalar üçün LICENSES qovluğuna baxa bilərsiniz.
+- Lisenziyalar üçün LICENSE və COPYING.md fayllarına baxa bilərsiniz.
