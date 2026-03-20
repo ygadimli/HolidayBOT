@@ -12,7 +12,7 @@ function App() {
       <div className="app-container">
         {/* Sidebar */}
         <div className="sidebar">
-          <h1>Təbrik Botu</h1>
+          <h1>HolidayBOT</h1>
           <nav>
             <NavLink to="/" className={({isActive}) => isActive ? "nav-link active" : "nav-link"} end>
               <Bot size={20} /> Bot Paneli
