@@ -19,7 +19,7 @@ HOLİDAYBOT müəyyən etdiyiniz tarixlərdə (bayramlarda və ya xüsusi günl�
 2.1 - Linux & Mac & Windows
 
 ```
-git clone https://github.com/SizinAdiniz/holidaybot.git
+git clone https://github.com/ygadimli/HolidayBOT.git
 cd holidaybot
 ```
 
