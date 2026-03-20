@@ -1,6 +1,6 @@
-HOLİDAYBOT
+HOLIDAYBOT
 
-HOLİDAYBOT müəyyən etdiyiniz tarixlərdə (bayramlarda və ya xüsusi günlərdə) siyahınızdakı şəxslərə avtomatik WhatsApp və Telegram üzərindən əvvəlcədən təyin etdiyiniz təbrik mesajlarını göndərmək üçün hazırlanmış programdır. Programın əsas məqsədi bayram günlərində və ya xüsusi günlərdə vaxt itirmədən hərkəsə bunu mesaj formasında yollamaqdır ancaq başqa məqsədlərlə də istifadə oluna bilər (məsələn müəyyən zamanda avtomatik mesaj yollayan sistem).
+HOLIDAYBOT müəyyən etdiyiniz tarixlərdə (bayramlarda və ya xüsusi günlərdə) siyahınızdakı şəxslərə avtomatik WhatsApp və Telegram üzərindən əvvəlcədən təyin etdiyiniz təbrik mesajlarını göndərmək üçün hazırlanmış programdır. Programın əsas məqsədi bayram günlərində və ya xüsusi günlərdə vaxt itirmədən hərkəsə bunu mesaj formasında yollamaqdır ancaq başqa məqsədlərlə də istifadə oluna bilər (məsələn müəyyən zamanda avtomatik mesaj yollayan sistem).
 
 1.0 - Xüsusiyyətlər
 
